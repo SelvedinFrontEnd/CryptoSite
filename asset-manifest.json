@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CryptoSite/static/css/main.82b13ba1.css",
+    "main.js": "/CryptoSite/static/js/main.63f42001.js",
+    "static/media/Roboto-Regular.ttf": "/CryptoSite/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/moon.png": "/CryptoSite/static/media/moon.e5585e508bad58301c6c.png",
+    "static/media/equalizer.png": "/CryptoSite/static/media/equalizer.5b8d36406a9be6c11aa8.png",
+    "index.html": "/CryptoSite/index.html",
+    "main.82b13ba1.css.map": "/CryptoSite/static/css/main.82b13ba1.css.map",
+    "main.63f42001.js.map": "/CryptoSite/static/js/main.63f42001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82b13ba1.css",
+    "static/js/main.63f42001.js"
+  ]
+}
